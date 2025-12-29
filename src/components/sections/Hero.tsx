@@ -42,8 +42,7 @@ export default function Hero() {
   </Link>
 
   <Link href="#portfolio">
-    <Button 
-      variant="outline" 
+    <Button  
       size="lg" 
       className="h-14 rounded-xl bg-blue-600 px-10 text-lg font-semibold text-white shadow-lg shadow-blue-500/20 transition-all hover:bg-blue-700"
     >
