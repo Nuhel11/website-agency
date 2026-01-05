@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <section className="relative flex h-[80vh] w-full items-center justify-center overflow-hidden">
       <Image
-        src="/bg2.jpg"
+        src="/bg3.webp"
         alt="Background"
         fill
         priority

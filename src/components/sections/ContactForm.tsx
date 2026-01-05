@@ -61,7 +61,7 @@ export default function ContactForm() {
             Ready to <span className="text-blue-500">Scale?</span>
           </h2>
           <p className="text-slate-400 mt-2 text-sm">
-            Drop us a line. We'll respond within 24 hours.
+            Drop us a line. We will respond within 24 hours.
           </p>
         </div>
 
